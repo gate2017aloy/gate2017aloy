@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aloy
-- 👀 I’m interested in React and Java and in general full stack development.
+- 👀 I’m interested in React, Java, Go and NodeJS and in general full stack development.
 - 📫 Reach me @gate.2017.aloy@gmail.com.
 
 <!---
